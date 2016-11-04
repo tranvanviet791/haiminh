@@ -1,0 +1,33 @@
+/* === START Nielsen Customizzation === */
+
+.widget.vendors-list ul {
+  padding: 0;
+  list-style: none;
+  margin-bottom: 0;
+}
+
+.widget.vendors-list ul li {
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}
+
+span.by-vendor-name {
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.tax-yith_shop_vendor span.by-vendor-name {
+  display: block;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.by-vendor-name a.by-vendor-name-link {
+	font-size: 11px;
+}
+
+#tab-yith_wc_vendor h2 {
+  	display: block;
+}
+
+/* === END Nielsen Customizzation === */

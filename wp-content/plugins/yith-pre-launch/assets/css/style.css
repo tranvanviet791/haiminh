@@ -1,0 +1,209 @@
+/**
+ * The style of the prelaunch mode page
+ */
+
+div.container {
+    width: 635px;
+    margin: 80px auto 0;
+
+}
+
+.logo {
+    display: block;
+    float: left;
+    padding-left: 30px;
+    text-decoration: none;
+    margin-bottom: 40px;
+}
+
+.logo .tagline {
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 18px;
+}
+
+p, li {
+    margin-bottom: 18px;
+    line-height: 1.51em;
+}
+
+.yit-box {
+    clear: both;
+    border: 1px solid #d2d2d2;
+    margin-bottom: 24px;
+    text-align: left;
+    border-collapse: separate;
+    padding: 40px 30px;
+    background:#fff;
+    position: relative;
+    display: block;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px
+}
+
+.yit-box:after {
+    display: block;
+    overflow: visible;
+    position: absolute;
+    width: 100%;
+    height: 12px;
+    background: url('../images/box-bottom.png') no-repeat top center !important;
+    background-size: 100% auto !important;
+    max-width: 624px;
+    left: 0;
+    right: 0;
+    bottom: -12px;
+    margin: 0 auto;
+    content: " ";
+}
+
+.top-bg {
+    height: 6px;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    -webkit-border-top-left-radius: 6px;
+    -webkit-border-top-right-radius: 6px;
+    -moz-border-radius-topleft: 6px;
+    -moz-border-radius-topright: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+img.mascotte {
+    position: absolute;
+    right: -100px;
+    top: -189px;
+    z-index: -1;
+}
+
+.sep {
+    height: 1px;
+    background: #c1c1c1;
+    margin:40px -30px 44px;
+}
+
+/* newsletter form */
+form.newsletter, form.newsletter fieldset {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+
+form.newsletter input.text-field {
+    background: #f2f2f2;
+    width: 100%;
+    margin: 0;
+    padding: 16px 190px 16px 22px;
+    border: 1px solid #b4b4b4;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-shadow: 3px 3px 9px rgba(0, 0, 0, .05) inset;
+    -moz-box-shadow: 3px 3px 9px rgba(0, 0, 0, .05) inset;
+    box-shadow: 3px 3px 9px rgba(0, 0, 0, .05) inset;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px
+}
+
+form.newsletter input.submit-field {
+    border: 1px solid #3c5072;
+    border-left: 0;
+    padding: 0 26px;
+    height: 100%;
+    margin: 0;
+    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.14);
+    -webkit-border-radius: 0 8px 8px 0;
+    -moz-border-radius: 0 8px 8px 0;
+    border-radius: 0 8px 8px 0;
+}
+
+form.newsletter .submit {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+}
+
+form.newsletter .submit:after {
+    border-bottom: 26px solid transparent;
+    border-top: 25px solid transparent;
+    border-right: 30px solid;
+    content: "";
+    height: 0;
+    left: -30px;
+    position: absolute;
+    width: 0;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials a {
+    display: inline-block;
+    width: 39px;
+    height: 38px;
+    background-position: top center;
+    background-repeat: no-repeat;
+    margin: 15px 6px 0;
+    word-space: nowrap;
+    text-indent: 100%;
+    overflow: hidden;
+}
+
+.socials a:hover {
+    background-position: bottom center;
+}
+
+.socials a.facebook  { background-image:url('../images/socials/facebook.png');  }
+.socials a.twitter   { background-image:url('../images/socials/twitter.png');   }
+.socials a.gplus     { background-image:url('../images/socials/gplus.png');     }
+.socials a.youtube   { background-image:url('../images/socials/youtube.png');   }
+.socials a.rss       { background-image:url('../images/socials/rss.png');       }
+.socials a.behance   { background-image:url('../images/socials/behance.png');   }
+.socials a.dribble   { background-image:url('../images/socials/dribble.png');   }
+.socials a.email     { background-image:url('../images/socials/email.png');     }
+.socials a.flickr    { background-image:url('../images/socials/flickr.png');    }
+.socials a.instagram { background-image:url('../images/socials/instagram.png'); }
+.socials a.linkedin  { background-image:url('../images/socials/linkedin.png');  }
+.socials a.pinterest { background-image:url('../images/socials/pinterest.png'); }
+.socials a.skype     { background-image:url('../images/socials/skype.png');     }
+.socials a.tumblr    { background-image:url('../images/socials/tumblr.png');    }
+
+/* COUNTDOWN */
+.countdown {
+    background: #f3f3f3;
+    padding: 40px 25px;
+    margin: 35px -30px 40px;
+}
+
+.countdown .col {
+    width: 25%;
+    float: left;
+    text-align: center;
+    margin: 0;
+}
+
+.countdown .col span {
+    display: block;
+    font-family: 'Open Sans', sans;
+}
+
+.countdown .col .num {
+    font-size: 50px;
+    color: #617291;
+    font-weight: 800;
+}
+
+.countdown .col .label {
+    font-size: 15px;
+    color: #999999;
+    font-weight: 400;
+}

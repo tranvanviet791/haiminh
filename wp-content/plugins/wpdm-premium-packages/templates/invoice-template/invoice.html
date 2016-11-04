@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Invoice</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" href="[%invoice_template_dir_uri%]/styles/base.css" media="screen" />
+<!-- Base Stylesheet do not change or remove -->
+<link rel="stylesheet" type="text/css" href="[%invoice_template_dir_uri%]/styles/[%cssfile%]_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="[%invoice_template_dir_uri%]/styles/[%cssfile%].css" />
+<!-- Remove this and add your own invoice styles -->
+</head>
+<body> 
+<div id="invoice"> 
+  <div id="invoice-header">   
+    <!-- hCard microformat --> 
+    [%company_info%]
+    <!-- company-address vcard --> 
+  </div> 
+  <!-- #invoice-header --> 
+  <div id="invoice-info"> 
+    <h2>[%invoice_txt%] [%invoice_id%]</h2>
+    <h3>[%date%]</h3> 
+  </div> 
+ [%client_info%] 
+ 
+  <!-- #client-details vcard --> 
+   [%items_table%] 
+  <!-- invoice-amount --> 
+  <div id="invoice-other"> 
+    <h2>Other Information</h2> 
+    <div id="company-reg-number"><strong>Sales Support Email:</strong> 
+		<br>[%support_email%]</div>  
+    <div id="contract-number">&nbsp;</div> 
+  </div> 
+  <!-- invoice-other --> 
+  <div id="payment-details"> 
+    <h2>Payment Details</h2> 
+    <p>Payment Method:<br/>
+    <b>PayPal</b></p>     
+  </div> 
+  <!-- payment-details --> 
+  <!-- comments --> 
+</div> 
+ <br/>
+ <center><a href="#" onclick="window.print();return false;">Print Invoice</a></center>
+</body>
+</html>

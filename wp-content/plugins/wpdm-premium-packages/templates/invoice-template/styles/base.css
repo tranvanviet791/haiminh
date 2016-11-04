@@ -1,0 +1,11 @@
+/* Base CSS styles DO NOT CHANGE OR REMOVE */
+
+body {margin: 0;padding: 0;font:82.5%/1.5 'Open Sans',Helvetica, Arial, Verdana, sans-serif;background: #eee;}
+ul, ul li, p, div, ol {margin:0;padding:0;list-style:none;}
+
+#invoice { border:1px solid #000;  margin: 0 12pt; width:660px;padding: 10px 20px; margin: 1em auto;clear:both;position:relative;overflow:hidden; background:#fff }
+
+#invoice img { border: none; }
+#invoice.draft {background: #fff url(/images/draft.gif) top left}
+#invoice.cancelled {background: #fff url(/images/cancelled.gif) top left}
+

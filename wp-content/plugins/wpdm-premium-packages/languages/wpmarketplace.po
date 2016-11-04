@@ -1,0 +1,1351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpmarketplace\n"
+"POT-Creation-Date: 2015-09-19 12:46+0600\n"
+"PO-Revision-Date: 2015-09-19 12:46+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: featureset/add_list_items.php:14 featureset/add_list_items.php:85
+msgid "Option Name field is Empty"
+msgstr ""
+
+#: featureset/add_list_items.php:19 featureset/add_list_items.php:90
+msgid "Field Type field is Empty"
+msgstr ""
+
+#: featureset/add_list_items.php:24 featureset/add_list_items.php:95
+msgid "Options Filed is Empty"
+msgstr ""
+
+#: featureset/add_list_items.php:46
+msgid "New Item added successfully.."
+msgstr ""
+
+#: featureset/add_list_items.php:50 featureset/add_list_items.php:123
+#: featureset/index.php:20 featureset/index.php:37 featureset/index.php:53
+#: featureset/index.php:70 featureset/show_list_items.php:24
+#: featureset/show_list_items.php:40 featureset/show_list_items.php:57
+msgid "Database/Query error.."
+msgstr ""
+
+#: featureset/add_list_items.php:119 featureset/index.php:34
+#: featureset/show_list_items.php:21
+msgid "Featureset successfully enabled.."
+msgstr ""
+
+#: featureset/feature_set.php:3 featureset/functions.php:9
+#: featureset/functions.php:16
+msgid "Feature Set"
+msgstr ""
+
+#: featureset/functions.php:9
+msgid "Feature List"
+msgstr ""
+
+#: featureset/index.php:7
+msgid "Feature Name field is empty..."
+msgstr ""
+
+#: featureset/index.php:17
+msgid "New Featureset added successfully.."
+msgstr ""
+
+#: featureset/index.php:50 featureset/show_list_items.php:37
+msgid "Featureset successfully disabled.."
+msgstr ""
+
+#: featureset/index.php:67 featureset/show_list_items.php:54
+msgid "Featureset successfully deleted.."
+msgstr ""
+
+#: featureset/index.php:104 featureset/index.php:113
+msgid "SL"
+msgstr ""
+
+#: featureset/index.php:105 featureset/index.php:114
+msgid "Feature Name"
+msgstr ""
+
+#: featureset/index.php:106 featureset/index.php:115
+#: libs/scode_my-products.php:140 settings/payment_options.php:75
+#: settings/tax_options.php:91 tpls/featured_products.php:78
+#: tpls/featured_products.php:90 tpls/payout_dues.php:15
+msgid "Action"
+msgstr ""
+
+#: featureset/show_list_items.php:92 featureset/show_list_items.php:102
+msgid "Sl"
+msgstr ""
+
+#: featureset/show_list_items.php:93 featureset/show_list_items.php:103
+#: tpls/metaboxes/pricing.php:44
+msgid "Option Name"
+msgstr ""
+
+#: featureset/show_list_items.php:94 featureset/show_list_items.php:104
+msgid "Field Type"
+msgstr ""
+
+#: featureset/show_list_items.php:95 featureset/show_list_items.php:105
+msgid "options"
+msgstr ""
+
+#: featureset/show_list_items.php:96 featureset/show_list_items.php:106
+msgid "Actions"
+msgstr ""
+
+#: libs/cart.php:889 libs/class.CustomActions.php:53
+msgid "Order status updated"
+msgstr ""
+
+#: libs/cart.php:896 libs/class.CustomActions.php:10
+msgid "Payment status updated"
+msgstr ""
+
+#: libs/cart.php:1018 tpls/earnings.php:77
+msgid "Price"
+msgstr ""
+
+#: libs/cart.php:1034
+msgid "Free"
+msgstr ""
+
+#: libs/cart.php:1072
+msgid "will be applied on all prices"
+msgstr ""
+
+#: libs/cart.php:1080 libs/cart.php:1104 libs/print_invoice.php:38
+#: tpls/order-details.php:16 tpls/orders_purchases.php:136
+#: tpls/purchase-orders.php:174
+msgid "Download"
+msgstr ""
+
+#: libs/cart.php:1082 libs/cart.php:1106 libs/cart.php:1115
+msgid "Add to Cart"
+msgstr ""
+
+#: libs/class.payment.php:87 settings/payment_options.php:31
+msgid "Active"
+msgstr ""
+
+#: libs/custom_column.php:9 libs/scode_my-products.php:138 tpls/cart.php:11
+#: tpls/order_review.php:67
+msgid "Title"
+msgstr ""
+
+#: libs/custom_column.php:10
+msgid "Author"
+msgstr ""
+
+#: libs/custom_column.php:11
+msgid "Category"
+msgstr ""
+
+#: libs/custom_column.php:12
+msgid "Sales Qty"
+msgstr ""
+
+#: libs/custom_column.php:13
+msgid "Total Sales"
+msgstr ""
+
+#: libs/custom_column.php:14
+msgid "Downloads"
+msgstr ""
+
+#: libs/custom_column.php:15
+msgid "Sales Graph"
+msgstr ""
+
+#: libs/custom_column.php:16
+msgid ""
+"<span class=\"vers\"><div title=\"Comments\" class=\"comment-grey-bubble\"></"
+"div></span>"
+msgstr ""
+
+#: libs/custom_column.php:17 tpls/earnings.php:77 tpls/orders.php:122
+#: tpls/orders_purchases.php:15 tpls/purchase-orders.php:53
+msgid "Date"
+msgstr ""
+
+#: libs/custom_column.php:123
+msgid "--"
+msgstr ""
+
+#: libs/custom_user_info.php:14
+msgid "Customer Billing Address"
+msgstr ""
+
+#: libs/custom_user_info.php:19
+msgid "Billing First Name"
+msgstr ""
+
+#: libs/custom_user_info.php:23
+msgid "Enter your billing first name."
+msgstr ""
+
+#: libs/custom_user_info.php:29 tpls/billing-info.php:12 tpls/billing.php:31
+msgid "Last Name"
+msgstr ""
+
+#: libs/custom_user_info.php:33
+msgid "Enter your billing last name."
+msgstr ""
+
+#: libs/custom_user_info.php:39 tpls/billing-info.php:20 tpls/billing.php:37
+msgid "Company Name"
+msgstr ""
+
+#: libs/custom_user_info.php:43
+msgid "Enter your company name."
+msgstr ""
+
+#: libs/custom_user_info.php:49 tpls/billing-info.php:24
+msgid "Address Line 1"
+msgstr ""
+
+#: libs/custom_user_info.php:53
+msgid "Enter your billing address line 1."
+msgstr ""
+
+#: libs/custom_user_info.php:59 tpls/billing-info.php:32
+msgid "Address Line 2"
+msgstr ""
+
+#: libs/custom_user_info.php:63
+msgid "Enter your billing address line 2."
+msgstr ""
+
+#: libs/custom_user_info.php:69 tpls/billing-info.php:36 tpls/billing.php:55
+msgid "Town/City"
+msgstr ""
+
+#: libs/custom_user_info.php:73
+msgid "Enter your billing city name."
+msgstr ""
+
+#: libs/custom_user_info.php:79 tpls/billing-info.php:44 tpls/billing.php:61
+msgid "Postcode/Zip"
+msgstr ""
+
+#: libs/custom_user_info.php:83
+msgid "Enter your billing post code."
+msgstr ""
+
+#: libs/custom_user_info.php:90 settings/tax_options.php:88
+#: tpls/billing-info.php:49 tpls/billing.php:67
+msgid "Country"
+msgstr ""
+
+#: libs/custom_user_info.php:119
+msgid "Enter your billing country name."
+msgstr ""
+
+#: libs/custom_user_info.php:126 tpls/billing-info.php:82 tpls/billing.php:98
+msgid "State/County"
+msgstr ""
+
+#: libs/custom_user_info.php:130
+msgid "Enter your billing state."
+msgstr ""
+
+#: libs/custom_user_info.php:136 tpls/billing-info.php:87 tpls/billing.php:104
+#: tpls/cart.php:168
+msgid "Email Address"
+msgstr ""
+
+#: libs/custom_user_info.php:140
+msgid "Enter your billing email address."
+msgstr ""
+
+#: libs/custom_user_info.php:146 tpls/billing-info.php:95 tpls/billing.php:110
+msgid "Phone"
+msgstr ""
+
+#: libs/custom_user_info.php:150
+msgid "Enter your billing phone number."
+msgstr ""
+
+#: libs/extends.php:15
+msgid "Extends"
+msgstr ""
+
+#: libs/functions.php:243
+msgid "Withdraw Request Sent!"
+msgstr ""
+
+#: libs/payment_methods/Paypal/class.Paypal.php:53
+msgid "Paypal Mode:"
+msgstr ""
+
+#: libs/payment_methods/Paypal/class.Paypal.php:59
+msgid "Paypal Email:"
+msgstr ""
+
+#: libs/payment_methods/Paypal/class.Paypal.php:66
+#: libs/payment_methods/TestPay/class.TestPay.php:43
+msgid "Cancel Url:"
+msgstr ""
+
+#: libs/payment_methods/Paypal/class.Paypal.php:72
+#: libs/payment_methods/TestPay/class.TestPay.php:49
+msgid "Return Url:"
+msgstr ""
+
+#: libs/payment_methods/Paypal/class.Paypal.php:131
+msgid "Proceeding to Paypal...."
+msgstr ""
+
+#: libs/payment_methods/Paypal/class.Paypal.php:134
+msgid "There are some problems with PayPal setup, please notify site admin"
+msgstr ""
+
+#: libs/print_invoice.php:23 tpls/orders.php:126 tpls/view-order.php:151
+msgid "Order ID:"
+msgstr ""
+
+#: libs/print_invoice.php:24 tpls/view-order.php:177
+msgid "Order Summary"
+msgstr ""
+
+#: libs/print_invoice.php:25
+msgid "Order Discount:"
+msgstr ""
+
+#: libs/print_invoice.php:26
+msgid "Shipping:"
+msgstr ""
+
+#: libs/print_invoice.php:27 tpls/view-order.php:167
+msgid "Order Total:"
+msgstr ""
+
+#: libs/print_invoice.php:28 tpls/view-order.php:159
+msgid "Order Date:"
+msgstr ""
+
+#: libs/print_invoice.php:29
+msgid "Customer ID:"
+msgstr ""
+
+#: libs/print_invoice.php:30
+msgid "Customer Details"
+msgstr ""
+
+#: libs/print_invoice.php:31 tpls/view-order.php:208
+msgid "Customer Name:"
+msgstr ""
+
+#: libs/print_invoice.php:32 tpls/view-order.php:209
+msgid "Customer Email:"
+msgstr ""
+
+#: libs/print_invoice.php:33 tpls/view-order.php:24
+msgid "Item Name"
+msgstr ""
+
+#: libs/print_invoice.php:34 tpls/cart.php:12 tpls/order-details.php:12
+#: tpls/order_review.php:67 tpls/orders_purchases.php:132
+#: tpls/purchase-orders.php:170 tpls/view-order.php:25
+msgid "Unit Price"
+msgstr ""
+
+#: libs/print_invoice.php:35 tpls/cart.php:15 tpls/earnings.php:77
+#: tpls/order-details.php:11 tpls/order_review.php:67
+#: tpls/orders_purchases.php:131 tpls/purchase-orders.php:169
+#: tpls/view-order.php:26
+msgid "Quantity"
+msgstr ""
+
+#: libs/print_invoice.php:36 tpls/order-details.php:203
+#: tpls/orders_purchases.php:324 tpls/view-order.php:27
+#: tpls/wpdmpp-invoice.php:23
+msgid "Discount"
+msgstr ""
+
+#: libs/print_invoice.php:37 tpls/view-order.php:31
+msgid "Subtotal"
+msgstr ""
+
+#: libs/product_report.php:2
+msgid "Product Report"
+msgstr ""
+
+#: libs/product_report.php:104
+msgid "Product Title : "
+msgstr ""
+
+#: libs/product_report.php:107
+msgid "Number of Sales Graph"
+msgstr ""
+
+#: libs/product_report.php:113
+msgid "Sales Amount Graph"
+msgstr ""
+
+#: libs/product_report.php:230
+msgid "No Sales Record Found For This Product."
+msgstr ""
+
+#: libs/product_report.php:238
+msgid "Please select a product to view sales report."
+msgstr ""
+
+#: libs/reg-form.php:4
+msgid "Registration Failed!"
+msgstr ""
+
+#: libs/reg-form.php:14 tpls/all_payouts.php:13 tpls/all_payouts.php:21
+#: tpls/checkout_method.php:20 tpls/checkout_method.php:54
+#: tpls/login_form.php:16 tpls/payout_dues.php:12
+msgid "Username"
+msgstr ""
+
+#: libs/reg-form.php:18 tpls/checkout_method.php:24
+msgid "E-mail"
+msgstr ""
+
+#: libs/reg-form.php:21
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: libs/reg-form.php:27
+msgid "Already have account? Login"
+msgstr ""
+
+#: libs/scode_add-product.php:33 tpls/order-notes.php:62
+msgid "Allowed Files"
+msgstr ""
+
+#: libs/scode_add-product.php:82
+msgid "Add/Edit Product"
+msgstr ""
+
+#: libs/scode_add-product.php:88 widget.php:177
+msgid "Title:"
+msgstr ""
+
+#: libs/scode_add-product.php:90
+msgid "Description:"
+msgstr ""
+
+#: libs/scode_add-product.php:96
+msgid "Excerpt:"
+msgstr ""
+
+#: libs/scode_add-product.php:99
+msgid "Digital Product"
+msgstr ""
+
+#: libs/scode_add-product.php:216
+msgid "Frontend Demo URL:"
+msgstr ""
+
+#: libs/scode_add-product.php:220
+msgid "Admin Demo URL:"
+msgstr ""
+
+#: libs/scode_add-product.php:224
+msgid "Username:"
+msgstr ""
+
+#: libs/scode_add-product.php:228
+msgid "Password:"
+msgstr ""
+
+#: libs/scode_add-product.php:232
+msgid "Other Demo Info:"
+msgstr ""
+
+#: libs/scode_add-product.php:247
+msgid "Prices"
+msgstr ""
+
+#: libs/scode_add-product.php:249
+msgid "Variation Options"
+msgstr ""
+
+#: libs/scode_add-product.php:249 tpls/metaboxes/pricing.php:6
+msgid "Pricing"
+msgstr ""
+
+#: libs/scode_add-product.php:251
+msgid "Price:"
+msgstr ""
+
+#: libs/scode_add-product.php:252
+msgid "Sales Price:"
+msgstr ""
+
+#: libs/scode_add-product.php:253
+msgid "Variation"
+msgstr ""
+
+#: libs/scode_add-product.php:396
+msgid "Featured Image"
+msgstr ""
+
+#: libs/scode_add-product.php:436
+msgid "Remove Featured Image"
+msgstr ""
+
+#: libs/scode_add-product.php:443
+msgid "Additional Images"
+msgstr ""
+
+#: libs/scode_add-product.php:526
+msgid "Dimension"
+msgstr ""
+
+#: libs/scode_add-product.php:528
+msgid "Weight"
+msgstr ""
+
+#: libs/scode_add-product.php:529
+msgid "Width"
+msgstr ""
+
+#: libs/scode_add-product.php:530
+msgid "Height"
+msgstr ""
+
+#: libs/scode_add-product.php:536 tpls/metaboxes/pricing.php:150
+#: tpls/order-details.php:13 tpls/orders_purchases.php:133
+#: tpls/purchase-orders.php:171 tpls/view-order.php:29
+msgid "Coupon Discount"
+msgstr ""
+
+#: libs/scode_add-product.php:540 tpls/cart.php:14
+#: tpls/metaboxes/pricing.php:153 tpls/order_review.php:67
+#: tpls/view-order.php:28
+msgid "Coupon Code"
+msgstr ""
+
+#: libs/scode_add-product.php:540 tpls/metaboxes/pricing.php:153
+msgid "Discount(%)"
+msgstr ""
+
+#: libs/scode_add-product.php:574
+msgid "Role Based Discount"
+msgstr ""
+
+#: libs/scode_add-product.php:578 tpls/payout_settings.php:7
+msgid "Role"
+msgstr ""
+
+#: libs/scode_add-product.php:578
+msgid "Discount (%)"
+msgstr ""
+
+#: libs/scode_add-product.php:579
+msgid "Guest (guest)"
+msgstr ""
+
+#: libs/scode_my-products.php:139 tpls/all_payouts.php:15
+#: tpls/all_payouts.php:23 tpls/payout_dues.php:14 tpls/purchase-orders.php:54
+msgid "Status"
+msgstr ""
+
+#: libs/scode_my-products.php:175
+msgid "You didn't add any product yet!"
+msgstr ""
+
+#: libs/stock.php:62
+msgid "Stock not enabled"
+msgstr ""
+
+#: settings/basic_settings.php:13
+msgid "---Select Country---"
+msgstr ""
+
+#: settings/basic_settings.php:25
+msgid "Allowed Countries"
+msgstr ""
+
+#: settings/basic_settings.php:52
+msgid "Frontend Settings"
+msgstr ""
+
+#: settings/basic_settings.php:55
+msgid "Enable Guest Checkout"
+msgstr ""
+
+#: settings/basic_settings.php:57
+msgid "Enable Guest Download"
+msgstr ""
+
+#: settings/basic_settings.php:61
+msgid "Cart Page :"
+msgstr ""
+
+#: settings/basic_settings.php:78
+msgid "Orders Page :"
+msgstr ""
+
+#: settings/basic_settings.php:94
+msgid "Guest Order Page :"
+msgstr ""
+
+#: settings/basic_settings.php:109
+msgid "Continue Shopping URL:"
+msgstr ""
+
+#: settings/basic_settings.php:115
+msgid "Purchase Settings"
+msgstr ""
+
+#: settings/basic_settings.php:118
+msgid "Keep License Key Valid for Expired Orders"
+msgstr ""
+
+#: settings/basic_settings.php:119
+msgid "Send Order Expiration Alert to Customer"
+msgstr ""
+
+#: settings/basic_settings.php:125
+msgid "Order Validity Period:"
+msgstr ""
+
+#: settings/basic_settings.php:136
+msgid "Invoice"
+msgstr ""
+
+#: settings/basic_settings.php:148
+msgid "Company Address"
+msgstr ""
+
+#: settings/basic_settings.php:155
+msgid "Miscellaneous"
+msgstr ""
+
+#: settings/basic_settings.php:157
+msgid "Disable plugin CSS from front-end"
+msgstr ""
+
+#: settings/basic_settings.php:159
+msgid "Redirect to shopping cart after a product is added to the cart"
+msgstr ""
+
+#: settings/payment_options.php:15
+msgid "Payment Methods Configuration"
+msgstr ""
+
+#: settings/payment_options.php:28
+msgid "Drag and drop to re-order"
+msgstr ""
+
+#: settings/payment_options.php:33
+msgid "Inactive"
+msgstr ""
+
+#: settings/payment_options.php:60
+msgid "Currency Configuration"
+msgstr ""
+
+#: settings/payment_options.php:64
+msgid "Currency:"
+msgstr ""
+
+#: settings/payment_options.php:75 tpls/payout_settings.php:8
+msgid "Default"
+msgstr ""
+
+#: settings/payment_options.php:75
+msgid "Currency Code"
+msgstr ""
+
+#: settings/payment_options.php:75
+msgid "Currency Symbol"
+msgstr ""
+
+#: settings/payment_options.php:86 tpls/metaboxes/pricing.php:44
+#: tpls/metaboxes/pricing.php:153
+msgid "Delete"
+msgstr ""
+
+#: settings/settings.php:25
+msgid "Basic Settings"
+msgstr ""
+
+#: settings/settings.php:26
+msgid "Payment Options"
+msgstr ""
+
+#: settings/settings.php:27 tpls/wpdmpp-invoice.php:26
+#: wpdm-premium-packages.php:133
+msgid "Tax"
+msgstr ""
+
+#: settings/tax_options.php:72
+msgid "Tax Options"
+msgstr ""
+
+#: settings/tax_options.php:74
+msgid "Tax Calculation"
+msgstr ""
+
+#: settings/tax_options.php:77
+msgid "Enable tax calculation"
+msgstr ""
+
+#: settings/tax_options.php:78
+msgid "Display taxes on cart page"
+msgstr ""
+
+#: settings/tax_options.php:82
+msgid "Tax Rates"
+msgstr ""
+
+#: settings/tax_options.php:89
+msgid "State"
+msgstr ""
+
+#: settings/tax_options.php:90
+msgid "Rate(%)"
+msgstr ""
+
+#: tpls/all_payouts.php:14 tpls/all_payouts.php:22 tpls/payout_dues.php:13
+msgid "Amount"
+msgstr ""
+
+#: tpls/billing-info.php:7 tpls/billing.php:25
+msgid "First Name"
+msgstr ""
+
+#: tpls/billing-info.php:100
+msgid "Tax ID #"
+msgstr ""
+
+#: tpls/billing.php:3
+msgid "Billing and Shipping Info"
+msgstr ""
+
+#: tpls/billing.php:18 tpls/order-details.php:206 tpls/orders_purchases.php:327
+msgid "Billing Address"
+msgstr ""
+
+#: tpls/billing.php:43
+msgid "Address"
+msgstr ""
+
+#: tpls/billing.php:49
+msgid "Address 2"
+msgstr ""
+
+#: tpls/billing.php:121 tpls/checkout_method.php:39 tpls/shipping_method.php:47
+msgid "Continue"
+msgstr ""
+
+#: tpls/cart.php:13 tpls/order-details.php:14 tpls/orders_purchases.php:134
+#: tpls/purchase-orders.php:172
+msgid "Role Discount"
+msgstr ""
+
+#: tpls/cart.php:16 tpls/order-details.php:15 tpls/order_review.php:67
+#: tpls/orders.php:161 tpls/orders.php:190 tpls/orders_purchases.php:135
+#: tpls/purchase-orders.php:173 tpls/view-order.php:30
+#: tpls/wpdmpp-invoice.php:25
+msgid "Total"
+msgstr ""
+
+#: tpls/cart.php:122
+msgid "Total:"
+msgstr ""
+
+#: tpls/cart.php:123 tpls/cart.php:187 widget.php:322
+msgid "Continue Shopping"
+msgstr ""
+
+#: tpls/cart.php:123
+msgid "Update Cart"
+msgstr ""
+
+#: tpls/cart.php:123 widget.php:276
+msgid "Checkout"
+msgstr ""
+
+#: tpls/cart.php:168
+msgid "Saved Cart URL"
+msgstr ""
+
+#: tpls/cart.php:168
+msgid "Email This Cart"
+msgstr ""
+
+#: tpls/cart.php:187 tpls/checkout.php:9
+msgid "No item in cart."
+msgstr ""
+
+#: tpls/checkout.php:9
+msgid "Continue shopping"
+msgstr ""
+
+#: tpls/checkout.php:20
+msgid "Shipping Method"
+msgstr ""
+
+#: tpls/checkout.php:28
+msgid "Payment Method"
+msgstr ""
+
+#: tpls/checkout.php:36
+msgid "Order Review"
+msgstr ""
+
+#: tpls/checkout_method.php:13 tpls/login_form.php:31
+msgid "Register"
+msgstr ""
+
+#: tpls/checkout_method.php:15
+msgid "If you don't have an account signup here:"
+msgstr ""
+
+#: tpls/checkout_method.php:28 tpls/checkout_method.php:58
+#: tpls/login_form.php:20
+msgid "Password"
+msgstr ""
+
+#: tpls/checkout_method.php:46
+msgid "Login"
+msgstr ""
+
+#: tpls/checkout_method.php:48
+msgid "If you arelady have an account login here:"
+msgstr ""
+
+#: tpls/checkout_method.php:63 tpls/login_form.php:24
+msgid "Remember Me"
+msgstr ""
+
+#: tpls/checkout_method.php:72
+msgid "Log In"
+msgstr ""
+
+#: tpls/checkout_method.php:74
+msgid "Forgot password?"
+msgstr ""
+
+#: tpls/earnings.php:67
+msgid "Sales:"
+msgstr ""
+
+#: tpls/earnings.php:68
+msgid "Earning:"
+msgstr ""
+
+#: tpls/earnings.php:69
+msgid "Withdrawn:"
+msgstr ""
+
+#: tpls/earnings.php:70
+msgid "Pending:"
+msgstr ""
+
+#: tpls/earnings.php:71
+msgid "Balance:"
+msgstr ""
+
+#: tpls/earnings.php:71
+msgid "Withdraw"
+msgstr ""
+
+#: tpls/earnings.php:77
+msgid "Item"
+msgstr ""
+
+#: tpls/earnings.php:77
+msgid "Commission"
+msgstr ""
+
+#: tpls/earnings.php:77
+msgid "Earning"
+msgstr ""
+
+#: tpls/featured_products.php:6
+msgid "Featured Products"
+msgstr ""
+
+#: tpls/featured_products.php:18
+msgid "Product:"
+msgstr ""
+
+#: tpls/featured_products.php:19 tpls/featured_products.php:76
+#: tpls/featured_products.php:88
+msgid "Start Date"
+msgstr ""
+
+#: tpls/featured_products.php:21 tpls/featured_products.php:77
+#: tpls/featured_products.php:89
+msgid "End Date"
+msgstr ""
+
+#: tpls/featured_products.php:74 tpls/featured_products.php:86
+msgid "ID"
+msgstr ""
+
+#: tpls/featured_products.php:75 tpls/featured_products.php:87
+msgid "Product Title"
+msgstr ""
+
+#: tpls/featured_products.php:131 tpls/manage-license.php:99
+#: tpls/orders.php:288
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: tpls/featured_products.php:152 tpls/orders.php:317
+msgid "Search"
+msgstr ""
+
+#: tpls/featured_products.php:157 tpls/orders.php:322
+msgid "Posts"
+msgstr ""
+
+#: tpls/featured_products.php:159 tpls/orders.php:324
+msgid "Pages"
+msgstr ""
+
+#: tpls/login_form.php:30 tpls/remind_password.php:4
+msgid "Forgot Password?"
+msgstr ""
+
+#: tpls/manage-license.php:85 tpls/orders.php:272
+msgid "&laquo;"
+msgstr ""
+
+#: tpls/manage-license.php:86 tpls/orders.php:273
+msgid "&raquo;"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:10
+msgid "Base Price"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:14
+msgid "Sales Price"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:22
+msgid "Activate Variable Pricing"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:35
+msgid "Variation ID#"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:41 tpls/metaboxes/pricing.php:98
+msgid "Multiple Select"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:43
+msgid "Variation Name"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:43
+msgid "Enter a Variation Name"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:44
+msgid "Extra Cost"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:98
+msgid "Variation ID"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:120
+msgid "Licensing Option"
+msgstr ""
+
+#: tpls/metaboxes/pricing.php:122
+msgid "License Key Required"
+msgstr ""
+
+#: tpls/order-details.php:8 tpls/purchased-items.php:2
+msgid "All Orders"
+msgstr ""
+
+#: tpls/order-details.php:9 tpls/orders.php:147 tpls/orders.php:180
+#: tpls/orders_purchases.php:129 tpls/purchase-orders.php:167
+msgid "Order Status"
+msgstr ""
+
+#: tpls/order-details.php:10 tpls/orders_purchases.php:130
+#: tpls/purchase-orders.php:168
+msgid "Product"
+msgstr ""
+
+#: tpls/order-details.php:17 tpls/orders_purchases.php:137
+#: tpls/purchase-orders.php:175
+msgid "License"
+msgstr ""
+
+#: tpls/order-details.php:204 tpls/orders_purchases.php:325
+msgid "Customer details"
+msgstr ""
+
+#: tpls/order-details.php:205 tpls/orders_purchases.php:326
+msgid "Email"
+msgstr ""
+
+#: tpls/order-details.php:207 tpls/orders_purchases.php:328
+msgid "If you still want to complete this order "
+msgstr ""
+
+#: tpls/order-details.php:208
+#, php-format
+msgid "Get continuous support and update for another %d days"
+msgstr ""
+
+#: tpls/order-details.php:209 tpls/orders_purchases.php:330
+#: tpls/payment_method.php:36
+msgid "Pay Now"
+msgstr ""
+
+#: tpls/order-details.php:210 tpls/orders_purchases.php:331
+msgid "Renew Now"
+msgstr ""
+
+#: tpls/order_review.php:22
+msgid "Shipping"
+msgstr ""
+
+#: tpls/order_review.php:42
+msgid "Grand Total:"
+msgstr ""
+
+#: tpls/order_review.php:110
+msgid "Cart Subtotal:"
+msgstr ""
+
+#: tpls/order_review.php:113
+msgid "Discount:"
+msgstr ""
+
+#: tpls/order_review.php:127
+msgid "Order Notes"
+msgstr ""
+
+#: tpls/order_review.php:130 tpls/shipping_method.php:46
+msgid "Back"
+msgstr ""
+
+#: tpls/order_review.php:131
+msgid "Place Order"
+msgstr ""
+
+#: tpls/orders.php:81 wpdm-premium-packages.php:411
+#: wpdm-premium-packages.php:569
+msgid "Orders"
+msgstr ""
+
+#: tpls/orders.php:123
+msgid "from"
+msgstr ""
+
+#: tpls/orders.php:124
+msgid "to"
+msgstr ""
+
+#: tpls/orders.php:130
+msgid "order(s) found"
+msgstr ""
+
+#: tpls/orders.php:131
+msgid "Total Sales:"
+msgstr ""
+
+#: tpls/orders.php:153 tpls/orders.php:184
+msgid "Order"
+msgstr ""
+
+#: tpls/orders.php:157 tpls/orders.php:186 tpls/orders_purchases.php:16
+msgid "Payment Status"
+msgstr ""
+
+#: tpls/orders.php:162 tpls/orders.php:191
+msgid "Customer"
+msgstr ""
+
+#: tpls/orders.php:164 tpls/orders.php:193
+msgid "Order Date"
+msgstr ""
+
+#: tpls/orders.php:167 tpls/orders.php:196
+msgid "Item Download Status"
+msgstr ""
+
+#: tpls/orders.php:237
+msgid "items"
+msgstr ""
+
+#: tpls/orders.php:245
+msgid "Via"
+msgstr ""
+
+#: tpls/orders.php:254
+msgid "New"
+msgstr ""
+
+#: tpls/orders.php:254
+msgid "Downloaded"
+msgstr ""
+
+#: tpls/orders.php:312
+msgid "Find Posts or Pages"
+msgstr ""
+
+#: tpls/orders_purchases.php:14 tpls/purchase-orders.php:52
+msgid "Order Id"
+msgstr ""
+
+#: tpls/orders_purchases.php:128 tpls/purchase-orders.php:166
+msgid "Purchases"
+msgstr ""
+
+#: tpls/orders_purchases.php:329
+#, php-format
+msgid "If you want to get continuous support and update for another %d days"
+msgstr ""
+
+#: tpls/payment_method.php:11
+msgid "Enter Order Notification Email"
+msgstr ""
+
+#: tpls/payment_method.php:14
+msgid "Select Payment Method:"
+msgstr ""
+
+#: tpls/payout_dues.php:8
+msgid "Balance"
+msgstr ""
+
+#: tpls/payout_settings.php:3
+msgid "Comissions"
+msgstr ""
+
+#: tpls/payout_settings.php:7
+msgid "Commission (%)"
+msgstr ""
+
+#: tpls/payout_settings.php:25
+msgid "Payout Duration"
+msgstr ""
+
+#: tpls/payout_settings.php:28
+msgid "Duration of payout to mature :"
+msgstr ""
+
+#: tpls/payout_settings.php:28
+msgid "Days"
+msgstr ""
+
+#: tpls/payouts.php:61 wpdm-premium-packages.php:568
+msgid "Payouts"
+msgstr ""
+
+#: tpls/payouts.php:65
+msgid "All Payouts"
+msgstr ""
+
+#: tpls/payouts.php:66
+msgid "Dues"
+msgstr ""
+
+#: tpls/payouts.php:67
+msgid "Payout Settings"
+msgstr ""
+
+#: tpls/post_form.php:326 tpls/post_form.php:418
+msgid "Select files to upload:"
+msgstr ""
+
+#: tpls/purchased-items.php:2
+msgid "Purchased Items"
+msgstr ""
+
+#: tpls/remind_password.php:6
+msgid "Username or E-mail:"
+msgstr ""
+
+#: tpls/shipping_method.php:6
+msgid "Select Shipping"
+msgstr ""
+
+#: tpls/user-menu.php:5 tpls/wpdmpp_frontend.php:26
+msgid "Dashboard"
+msgstr ""
+
+#: tpls/user-menu.php:6 tpls/wpdmpp_frontend.php:28
+msgid "My Products"
+msgstr ""
+
+#: tpls/user-menu.php:7
+msgid "Add new Product"
+msgstr ""
+
+#: tpls/user-menu.php:9
+msgid "My Earnings"
+msgstr ""
+
+#: tpls/user-menu.php:10 tpls/wpdmpp_frontend.php:35
+msgid "Edit Profile"
+msgstr ""
+
+#: tpls/view-order.php:123
+msgid "Order Status:"
+msgstr ""
+
+#: tpls/view-order.php:134
+msgid "Payment Status:"
+msgstr ""
+
+#: tpls/view-order.php:147
+msgid "Message"
+msgstr ""
+
+#: tpls/view-order.php:180
+msgid "Coupon Discount:"
+msgstr ""
+
+#: tpls/view-order.php:181
+msgid "Role Discount:"
+msgstr ""
+
+#: tpls/view-order.php:202
+msgid "Customer Info"
+msgstr ""
+
+#: tpls/view-order.php:216
+msgid "This order is not associated with any user"
+msgstr ""
+
+#: tpls/view-order.php:218
+msgid "Assign User"
+msgstr ""
+
+#: tpls/view-order.php:226
+msgid "IP Information"
+msgstr ""
+
+#: tpls/view-order.php:229
+msgid "IP Address:"
+msgstr ""
+
+#: tpls/view-order.php:230
+msgid "Location:"
+msgstr ""
+
+#: tpls/view-order.php:269
+msgid "Order Items:"
+msgstr ""
+
+#: tpls/wpdmpp-invoice.php:24
+msgid "Net Total"
+msgstr ""
+
+#: tpls/wpdmpp_frontend.php:29
+msgid "Add Product"
+msgstr ""
+
+#: tpls/wpdmpp_frontend.php:30
+msgid "Earnings"
+msgstr ""
+
+#: tpls/wpdmpp_frontend.php:33
+msgid "Affiliate"
+msgstr ""
+
+#: tpls/wpdmpp_frontend.php:34
+msgid "My Orders"
+msgstr ""
+
+#: widget.php:181
+msgid "Show as Panel"
+msgstr ""
+
+#: widget.php:269
+msgid "Delete cart item"
+msgstr ""
+
+#: widget.php:322
+msgid "Cart is Empty !"
+msgstr ""
+
+#: wpdm-premium-packages.php:115
+msgid ""
+"upload your icons on '/wp-content/plugins/wpdm-premium-packages/images/"
+"icons/' using ftp"
+msgstr ""
+
+#: wpdm-premium-packages.php:127 wpdm-premium-packages.php:132
+msgid "Pricing & Discounts"
+msgstr ""
+
+#: wpdm-premium-packages.php:138
+msgid "Stock"
+msgstr ""
+
+#: wpdm-premium-packages.php:157
+msgid "Tax Status"
+msgstr ""
+
+#: wpdm-premium-packages.php:159
+msgid "Taxable"
+msgstr ""
+
+#: wpdm-premium-packages.php:161
+msgid "Shipping only"
+msgstr ""
+
+#: wpdm-premium-packages.php:163
+msgid "None"
+msgstr ""
+
+#: wpdm-premium-packages.php:166
+msgid "Tax Class"
+msgstr ""
+
+#: wpdm-premium-packages.php:172
+msgid "Standard Rate"
+msgstr ""
+
+#: wpdm-premium-packages.php:569
+msgid "Orders &lsaquo; Marketplace"
+msgstr ""
+
+#: wpdm-premium-packages.php:571
+msgid "License Manager"
+msgstr ""
+
+#: wpdm-premium-packages.php:613
+msgid "Settings Saved Successfully"
+msgstr ""
+
+#: wpdm-premium-packages.php:626
+msgid "Dailing 911! You better run now!!"
+msgstr ""
+
+#: wpdm-premium-packages.php:627
+msgid "Sorry! Support and Update Access Period is Already Expired"
+msgstr ""
+
+#: wpdm-premium-packages.php:885
+msgid "Profile Updated Successfully"
+msgstr ""
+
+#: wpdm-premium-packages.php:888
+msgid "Confirm Password Not Matched. Profile Update Failed!"
+msgstr ""

@@ -1,0 +1,645 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Pre-Launch\n"
+"POT-Creation-Date: 2015-10-02 13:06+0100\n"
+"PO-Revision-Date: 2015-10-02 13:06+0100\n"
+"Last-Translator: Nicola Mustone <mail@nicolamustone.it>\n"
+"Language-Team: Your Inspiration Themes <support@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class.yith-prelaunch-admin.php:78
+msgid "YITH Pre-Launch"
+msgstr "YITH Pre-lancio"
+
+#: ../class.yith-prelaunch-admin.php:79
+msgid "Pre-Launch"
+msgstr "Modalità Pre-lancio"
+
+#: ../class.yith-prelaunch-admin.php:144 ../yith-prelaunch-options.php:211
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../class.yith-prelaunch-admin.php:145
+msgid "Docs"
+msgstr "Documentazione"
+
+#: ../class.yith-prelaunch-frontend.php:70
+msgid "Pre-Launch Active"
+msgstr "Modalità Pre-lancio attiva"
+
+#: ../templates/prelaunch.php:127
+msgid "Days"
+msgstr "Giorni"
+
+#: ../templates/prelaunch.php:132 ../yit-common/yith-panel.php:402
+msgid "Hours"
+msgstr "Ore"
+
+#: ../templates/prelaunch.php:137 ../yit-common/yith-panel.php:403
+#: ../yit-common/yith-panel.php:404
+msgid "Minutes"
+msgstr "Minuti"
+
+#: ../templates/prelaunch.php:142
+msgid "Seconds"
+msgstr "Secondi"
+
+#: ../yit-common/yith-panel.php:401
+msgid "Select a date"
+msgstr "Seleziona la data"
+
+#: ../yit-common/yith-panel.php:412
+msgid "Upload"
+msgstr "Carica"
+
+#: ../yit-common/yith-panel.php:439
+msgid "px"
+msgstr "px"
+
+#: ../yit-common/yith-panel.php:440
+msgid "em"
+msgstr "em"
+
+#: ../yit-common/yith-panel.php:441
+msgid "pt"
+msgstr "pt"
+
+#: ../yit-common/yith-panel.php:442
+msgid "rem"
+msgstr "rem"
+
+#: ../yit-common/yith-panel.php:452
+msgid "Select a font family"
+msgstr "Seleziona la famiglia font"
+
+#: ../yit-common/yith-panel.php:460
+msgid "Regular"
+msgstr "Normale"
+
+#: ../yit-common/yith-panel.php:461
+msgid "Bold"
+msgstr "Grassetto"
+
+#: ../yit-common/yith-panel.php:462
+msgid "Extra bold"
+msgstr "Extra bold"
+
+#: ../yit-common/yith-panel.php:463
+msgid "Italic"
+msgstr "Corsivo"
+
+#: ../yit-common/yith-panel.php:464
+msgid "Italic bold"
+msgstr "Grassetto corsivo"
+
+#: ../yit-common/yith-panel.php:476
+msgid "Click to preview"
+msgstr "Clicca per anteprima"
+
+#: ../yith-prelaunch-options.php:18
+msgid "General"
+msgstr "Generale"
+
+#: ../yith-prelaunch-options.php:21
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: ../yith-prelaunch-options.php:25
+msgid "Enable Pre-Launch"
+msgstr "Abilità Modalità Pre-lancio"
+
+#: ../yith-prelaunch-options.php:26
+msgid ""
+"Enable the splash page to lets users to know the blog is down for prelaunch. "
+"(Default: Off) "
+msgstr ""
+"Abilita la pagina che permette agli utenti di vedere il sito in modalità di "
+"pre-lancio. (Default: Off)"
+
+#: ../yith-prelaunch-options.php:32
+msgid "Roles"
+msgstr "Ruoli"
+
+#: ../yith-prelaunch-options.php:33
+msgid ""
+"The user roles enabled to see the frontend. Check a role to enable it to "
+"show the website with prelaunch mode active."
+msgstr ""
+"I ruoli utente abilitati a vedere il frontend del sito. Controlla un ruolo "
+"per abilitarlo e fargli mostrare il sito, nonostante la modalità pre-lancio "
+"attiva."
+
+#: ../yith-prelaunch-options.php:40
+msgid "Message"
+msgstr "Messaggio"
+
+#: ../yith-prelaunch-options.php:41
+msgid "The message displayed. You can also use HTML code."
+msgstr "Il messaggio mostrato. Puoi anche utilizzare del codice HTML."
+
+#: ../yith-prelaunch-options.php:43
+msgid "OPS! WE ARE NOT READY YET!"
+msgstr "OPS! NON SIAMO ANCORA PRONTI!"
+
+#: ../yith-prelaunch-options.php:44
+msgid ""
+"Hello there! We are not ready yet, but why don't you leave your email "
+"address  and we'll let you know  as soon as we're in business!"
+msgstr ""
+"Ciao a tutti! Non siamo ancora pronti, ma lascia pure il tuo indirizzo email "
+"così di essere avvisato non appena il sito sarà lanciato!"
+
+#: ../yith-prelaunch-options.php:49
+msgid "Insert here your custom CSS style."
+msgstr "Aggiungi qui il tuo stile CSS personalizzato."
+
+#: ../yith-prelaunch-options.php:56
+msgid ""
+"If you want, you can set here a mascotte image to show above the main box, "
+"in the right side."
+msgstr ""
+"A tuo piacimento, puoi impostare qui l'immagine di una mascotte da mostrare "
+"sopra il box principale, nella parte destra."
+
+#: ../yith-prelaunch-options.php:63 ../yith-prelaunch-options.php:228
+msgid "Typography"
+msgstr "Tipografia"
+
+#: ../yith-prelaunch-options.php:67
+msgid "Title font of message"
+msgstr "Font del titolo all'interno del messaggio"
+
+#: ../yith-prelaunch-options.php:68
+msgid ""
+"Choose the font type, size and color for the titles inside the message text."
+msgstr ""
+"Scegli il font, dimensione e colore per i titoli dentro il testo del "
+"messaggio."
+
+#: ../yith-prelaunch-options.php:79
+msgid "Paragraph font of message"
+msgstr "Font del paragrafo all'interno del messaggio"
+
+#: ../yith-prelaunch-options.php:80
+msgid ""
+"Choose the font type, size and color for the paragraphs inside the message "
+"text."
+msgstr ""
+"Scegli il font, dimensione e colore per i paragrafi dentro il testo del "
+"messaggio."
+
+#: ../yith-prelaunch-options.php:93
+msgid "Colors"
+msgstr "Colori"
+
+#: ../yith-prelaunch-options.php:97
+msgid "Border top color"
+msgstr "Colore del bordo superiore"
+
+#: ../yith-prelaunch-options.php:98
+msgid "Choose the color for the big border top of the main box."
+msgstr "Scegli il colore per il bordo superiore del box"
+
+#: ../yith-prelaunch-options.php:109
+msgid "Background"
+msgstr "Sfondo"
+
+#: ../yith-prelaunch-options.php:112
+msgid "Background Settings"
+msgstr "Impostazioni sfondo"
+
+#: ../yith-prelaunch-options.php:113
+msgid "Customize the background of the page"
+msgstr "Personalizza lo sfondo della pagina"
+
+#: ../yith-prelaunch-options.php:116
+msgid "Background image"
+msgstr "Immagine sfondo"
+
+#: ../yith-prelaunch-options.php:117
+msgid "Upload or choose from your media library the background image"
+msgstr "Carica o scegli dalla libreria un'immagine di sfondo"
+
+#: ../yith-prelaunch-options.php:122
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: ../yith-prelaunch-options.php:123
+msgid "Choose a background color"
+msgstr "Scegli un colore di sfondo"
+
+#: ../yith-prelaunch-options.php:128
+msgid "Background Repeat"
+msgstr "Ripetizione sfondo"
+
+#: ../yith-prelaunch-options.php:129
+msgid "Select the repeat mode for the background image."
+msgstr "Seleziona la modalità di ripetizione per l'immagine di sfondo."
+
+#: ../yith-prelaunch-options.php:133
+msgid "Repeat"
+msgstr "Ripeti"
+
+#: ../yith-prelaunch-options.php:134
+msgid "Repeat Horizontally"
+msgstr "Ripeti orizontalmente"
+
+#: ../yith-prelaunch-options.php:135
+msgid "Repeat Vertically"
+msgstr "Ripeti verticalmente"
+
+#: ../yith-prelaunch-options.php:136
+msgid "No Repeat"
+msgstr "Nessuna ripetizione"
+
+#: ../yith-prelaunch-options.php:140
+msgid "Background Position"
+msgstr "Posizione sfondo"
+
+#: ../yith-prelaunch-options.php:141
+msgid "Select the position for the background image."
+msgstr "Seleziona la posizione per l'immagine di sfondo"
+
+#: ../yith-prelaunch-options.php:144
+msgid "Center"
+msgstr "Centro"
+
+#: ../yith-prelaunch-options.php:145
+msgid "Top left"
+msgstr "In alto a sinistra"
+
+#: ../yith-prelaunch-options.php:146
+msgid "Top center"
+msgstr "In alto al centro"
+
+#: ../yith-prelaunch-options.php:147
+msgid "Top right"
+msgstr "In alto a destra"
+
+#: ../yith-prelaunch-options.php:148
+msgid "Bottom left"
+msgstr "In basso a sinistra"
+
+#: ../yith-prelaunch-options.php:149
+msgid "Bottom center"
+msgstr "In basso al centro"
+
+#: ../yith-prelaunch-options.php:150
+msgid "Bottom right"
+msgstr "In basso a destra"
+
+#: ../yith-prelaunch-options.php:155
+msgid "Background Attachment"
+msgstr "Ancorazione sfondo"
+
+#: ../yith-prelaunch-options.php:156
+msgid "Select the attachment for the background image."
+msgstr "Seleziona l'ancorazione dell'immagine di sfondo."
+
+#: ../yith-prelaunch-options.php:159
+msgid "Scroll"
+msgstr "Scorri"
+
+#: ../yith-prelaunch-options.php:160
+msgid "Fixed"
+msgstr "Fisso"
+
+#: ../yith-prelaunch-options.php:171
+msgid "Logo"
+msgstr "Logo"
+
+#: ../yith-prelaunch-options.php:174
+msgid "Logo Settings"
+msgstr "Impostazioni logo"
+
+#: ../yith-prelaunch-options.php:175
+msgid "Customize the logo"
+msgstr "Personalizza il logo"
+
+#: ../yith-prelaunch-options.php:178
+msgid "Logo image"
+msgstr "Immagine logo"
+
+#: ../yith-prelaunch-options.php:179
+msgid "Upload or choose from your media library the logo image"
+msgstr "Carica o scegli dalla libreria l'immagine del logo"
+
+#: ../yith-prelaunch-options.php:184
+msgid "Logo tagline"
+msgstr "Tagline del logo"
+
+#: ../yith-prelaunch-options.php:185
+msgid "Set the tagline to show below the logo image"
+msgstr "Imposta tagline da mostrare sotto l'immagine del logo"
+
+#: ../yith-prelaunch-options.php:190
+msgid "Logo tagline font"
+msgstr "Font della tagline"
+
+#: ../yith-prelaunch-options.php:191
+msgid "Choose the font type, size and color for the tagline text."
+msgstr "Scegli il font, dimensione e colore per il testo della tagline."
+
+#: ../yith-prelaunch-options.php:208
+msgid "Countdown"
+msgstr "Conto alla rovescia"
+
+#: ../yith-prelaunch-options.php:214
+msgid "Enable countdown"
+msgstr "Conto alla rovescia"
+
+#: ../yith-prelaunch-options.php:215
+msgid "Tick if you want to show the countdown."
+msgstr "Seleziona per abilitare il conto alla rovescia"
+
+#: ../yith-prelaunch-options.php:220
+msgid "Countdown to"
+msgstr "Conto alla rovescia a"
+
+#: ../yith-prelaunch-options.php:221
+msgid "The date when the countdown will stop."
+msgstr "La data in cui il conto alla rovescia terminerà."
+
+#: ../yith-prelaunch-options.php:231
+msgid "Font numbers"
+msgstr "Tipografia numeri"
+
+#: ../yith-prelaunch-options.php:232
+msgid "The font for the numbers."
+msgstr "Tipografia per i numeri."
+
+#: ../yith-prelaunch-options.php:243
+msgid "Font labels"
+msgstr "Tipografia etichette"
+
+#: ../yith-prelaunch-options.php:244
+msgid "The font for the labels."
+msgstr "Il font per le etichette."
+
+#: ../yith-prelaunch-options.php:261 ../yith-prelaunch-options.php:264
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: ../yith-prelaunch-options.php:265
+msgid "Add a newsletter form in your prelaunch mode page."
+msgstr "Aggiungi un form per la newsletter nella pagina di pre-lancio."
+
+#: ../yith-prelaunch-options.php:268
+msgid "Enable Newsletter form"
+msgstr "Abilita il form per la newsletter"
+
+#: ../yith-prelaunch-options.php:269
+msgid ""
+"Choose if you want to enable the newsletter form in the prelaunch mode page."
+msgstr ""
+"Scegli se vuoi abilitare i lform per le newsletter nella pagina di pre-lancio"
+
+#: ../yith-prelaunch-options.php:274
+msgid "Newsletter Email Font"
+msgstr "Font email newsletter"
+
+#: ../yith-prelaunch-options.php:275
+msgid "Choose the font type, size and color for the email input field."
+msgstr "Scegli il font, dimensione e colore per il campo email del form."
+
+#: ../yith-prelaunch-options.php:286
+msgid "Newsletter Submit Font"
+msgstr "Font submit newsletter"
+
+#: ../yith-prelaunch-options.php:287
+msgid "Choose the font type, size and color for the email submit."
+msgstr "Scegli il font, dimensione e colore per il pulsante invia del form."
+
+#: ../yith-prelaunch-options.php:298
+msgid "Newsletter submit background"
+msgstr "Sfondo submit newsletter"
+
+#: ../yith-prelaunch-options.php:299
+msgid "The submit button background."
+msgstr "Sfondo del pulsante di invio "
+
+#: ../yith-prelaunch-options.php:304
+msgid "Newsletter submit hover background"
+msgstr "Font submit newsletter hover"
+
+#: ../yith-prelaunch-options.php:305
+msgid "The submit button hover background."
+msgstr "Colore di sfondo per il pulsante di invio all'hover del mouse."
+
+#: ../yith-prelaunch-options.php:310
+msgid "Title"
+msgstr "Titolo"
+
+#: ../yith-prelaunch-options.php:311
+msgid "The title displayed above the newsletter form."
+msgstr "Il titolo mostrato sopra il form newsletter"
+
+#: ../yith-prelaunch-options.php:318
+msgid "Form configuration"
+msgstr "Configurazione form"
+
+#: ../yith-prelaunch-options.php:319
+msgid ""
+"Configure the form and each field, to integrate the newsletter features of "
+"an external service."
+msgstr ""
+"Configra il form e ogni campo, per integrarlo con le caratteristiche di un "
+"servizio newsletter esterno."
+
+#: ../yith-prelaunch-options.php:322
+msgid "Action URL"
+msgstr "URL Action"
+
+#: ../yith-prelaunch-options.php:323
+msgid "Set the action url of the form."
+msgstr "Imposta l'url dell'attributo \"action\" del form."
+
+#: ../yith-prelaunch-options.php:328
+msgid "Form method"
+msgstr "Metodo form"
+
+#: ../yith-prelaunch-options.php:329
+msgid "Set the method for the form request."
+msgstr "Imposta il metodo con la quale il form invia la richiesta."
+
+#: ../yith-prelaunch-options.php:338
+msgid "\"Email\" field label"
+msgstr "Label del campo \"Email\""
+
+#: ../yith-prelaunch-options.php:339
+msgid "The label for the email field"
+msgstr "La label per il campo email"
+
+#: ../yith-prelaunch-options.php:344
+msgid "\"Email\" field name"
+msgstr "Attributo name del campo \"Email\""
+
+#: ../yith-prelaunch-options.php:345
+msgid "The \"name\" attribute for the email field"
+msgstr "L'attributo \"name\" per il campo email"
+
+#: ../yith-prelaunch-options.php:350
+msgid "Submit button label"
+msgstr "Label del pulsante submit"
+
+#: ../yith-prelaunch-options.php:351
+msgid "The label for the submit button"
+msgstr "La label per il pulsante di invio"
+
+#: ../yith-prelaunch-options.php:353
+msgid "GET NOTIFIED"
+msgstr "AGGIORNAMI"
+
+#: ../yith-prelaunch-options.php:356
+msgid "Newsletter Hidden fields"
+msgstr "Campi nascosti"
+
+#: ../yith-prelaunch-options.php:357
+msgid ""
+"Set the hidden fields to include in the form. Use the form: "
+"field1=value1&field2=value2&field3=value3"
+msgstr ""
+"Imposta i campi nascosti da includere nel form. Usa la forma: "
+"field1=value1&field2=value2&field3=value3"
+
+#: ../yith-prelaunch-options.php:368
+msgid "Socials"
+msgstr "Social"
+
+#: ../yith-prelaunch-options.php:371
+msgid "Set the socials"
+msgstr "Imposta i social"
+
+#: ../yith-prelaunch-options.php:372
+msgid ""
+"You can set here the url of your social accounts (you can leave empty if you "
+"don't want to show the social icon)"
+msgstr ""
+"Qui puoi settare gli url dei tuoi account social (puoi lasciare vuoto se non "
+"vuoi mostrare la rispettiva icona social)"
+
+#: ../yith-prelaunch-options.php:375
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../yith-prelaunch-options.php:376
+msgid "Set the URL of your facebook profile"
+msgstr "Imposta l'URL del tuo profilo facebok"
+
+#: ../yith-prelaunch-options.php:381
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../yith-prelaunch-options.php:382
+msgid "Set the URL of your twitter profile"
+msgstr "Imposta l'URL del tuo profilo twitter"
+
+#: ../yith-prelaunch-options.php:387
+msgid "Google+"
+msgstr "Google+"
+
+#: ../yith-prelaunch-options.php:388
+msgid "Set the URL of your Google+ profile"
+msgstr "Imposta l'url del tuo profilo Google+"
+
+#: ../yith-prelaunch-options.php:393
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../yith-prelaunch-options.php:394
+msgid "Set the URL of your youtube profile"
+msgstr "Imposta l'url del tuo canale YouTube"
+
+#: ../yith-prelaunch-options.php:399
+msgid "RSS"
+msgstr "RSS"
+
+#: ../yith-prelaunch-options.php:400
+msgid "Set the URL of your RSS feed"
+msgstr "Imposta l'URL dei tuoi feed RSS"
+
+#: ../yith-prelaunch-options.php:405
+msgid "Skype"
+msgstr "Skype"
+
+#: ../yith-prelaunch-options.php:406
+msgid "Set the username of your skype account"
+msgstr "Imposta l'username del tuo account skype"
+
+#: ../yith-prelaunch-options.php:411
+msgid "Email"
+msgstr "Email"
+
+#: ../yith-prelaunch-options.php:412
+msgid "Write here your email address"
+msgstr "Scrivi qui il tuo indirizzo email"
+
+#: ../yith-prelaunch-options.php:417
+msgid "Behance"
+msgstr "Behance"
+
+#: ../yith-prelaunch-options.php:418
+msgid "Set the URL of your Behance profile"
+msgstr "IMposta l'URL del tuo profilo Behance"
+
+#: ../yith-prelaunch-options.php:423
+msgid "Dribbble"
+msgstr "Dribble"
+
+#: ../yith-prelaunch-options.php:424
+msgid "Set the URL of your dribbble profile"
+msgstr "Imposta l'URL del tuo profilo dribble"
+
+#: ../yith-prelaunch-options.php:429
+msgid "FlickR"
+msgstr "FlicR"
+
+#: ../yith-prelaunch-options.php:430
+msgid "Set the URL of your Flickr profile"
+msgstr "Imposta l'URL del tuo profilo FlickR"
+
+#: ../yith-prelaunch-options.php:435
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../yith-prelaunch-options.php:436
+msgid "Set the URL of your instagram profile"
+msgstr "Imposta l'URL del tuo profilo Instagram"
+
+#: ../yith-prelaunch-options.php:441
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../yith-prelaunch-options.php:442
+msgid "Set the URL of your Pinterest profile"
+msgstr "Imposta l'URL del tuo profilo Pinterest"
+
+#: ../yith-prelaunch-options.php:447
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../yith-prelaunch-options.php:448
+msgid "Set the URL of your Tumblr profile"
+msgstr "Imposta l'URL del tuo profilo Tumblr"
+
+#: ../yith-prelaunch-options.php:453
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../yith-prelaunch-options.php:454
+msgid "Set the URL of your LinkedIn profile"
+msgstr "Imposta l'URL del tuo profilo su LinkedIn"
+
+#~ msgid "STAY UPDATED WITH %s"
+#~ msgstr "RESTA AGGIORNATO CON %s"
+
+#~ msgid "Choose a background color for the logo"
+#~ msgstr "Scegli il colore di sfondo per il logo"
